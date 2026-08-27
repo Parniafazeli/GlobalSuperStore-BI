@@ -2,13 +2,13 @@
 Power BI dashboard built with the Global Superstore dataset.
 
 ### Tools & Technologies
-SQL Server
-SSMS
-SSAS Tabular
-Visual Studio
-DAX
-Power Query
-Power BI
+- SQL Server
+- SSMS
+- SSAS Tabular
+- Visual Studio
+- DAX
+- Power Query
+- Power BI
 
 ### Project Workflow
 Excel → Data Cleaning → SQL Server → SSAS Tabular → DAX → Power BI 
