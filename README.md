@@ -23,4 +23,4 @@ Excel → Data Cleaning → SQL Server → SSAS Tabular → DAX → Power BI
 
 ### Dashboard
 Interactive Power BI dashboard for Executive Overview, analyzing sales, profit, customers, products, returns, and geographic& marketing performance, Shipping & Logistics
-####Images
+
